@@ -1,7 +1,7 @@
 # flightBox
 FlightBox - A custom flight simulator multi-function controller powered by Arduino Micro
 
-
+Photo of build: https://drive.google.com/file/d/1G8xoJjHyceSOLX77ePOY5_oevYFDJeR8/view?usp=sharing
 Parts Used in this build:
 
   1x Arduino Micro
@@ -15,3 +15,5 @@ Parts Used in this build:
   some 24 gauge wire and solder
 
 Special Thanks to John Lluch and Matthew Heironimus for their excellent Encoder and Joystick libraries respectively.
+https://github.com/John-Lluch/Encoder
+https://github.com/MHeironimus/ArduinoJoystickLibrary
